@@ -556,7 +556,7 @@ async function githubSave(token, owner, repo, data, sha) {
 
 function AppWrapper() {
   // ================================================================
-  const GH_TOKEN = "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";   // generar uno tuyo
+  const GH_TOKEN = "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";   // generar uno tuyo
   const GH_OWNER = "fernando2496";      // tu usuario
   const GH_REPO  = "Test";             // tu repo
   // ================================================================
